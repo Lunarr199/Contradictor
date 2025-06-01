@@ -9,5 +9,5 @@
 
 
  funny image:
- ![image](https://github.com/user-attachments/assets/be19241d-53b8-475d-8838-b91e337b0688)
+ ![image](https://github.com/user-attachments/assets/b550f4bf-f8ab-43ce-b459-3514ca73dfbf)
  ###### i feel really hurtful 🥀
